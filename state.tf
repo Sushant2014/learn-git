@@ -1,8 +1,8 @@
 terraform {
   required_providers {
     gcp {
-      version = "<version-constraint>"
       source = "<address>"      
+      adding provider block here
     }
   }
   # . . .
